@@ -1,0 +1,13 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: end;
+}
+
+.container {
+  margin-bottom: 50px;
+}
+
+.con {
+  border-radius: 8px;
+}
