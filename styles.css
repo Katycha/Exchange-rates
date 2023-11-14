@@ -5,9 +5,40 @@
 }
 
 .container {
-  margin-bottom: 50px;
+  height: 600px;
 }
 
 .con {
   border-radius: 8px;
+}
+
+.row {
+  margin-top: 50px;
+}
+
+body {
+  background-image: url("https://celes.club/uploads/posts/2023-06/1688158794_celes-club-p-estetichnie-oboi-s-dengami-vkontakte-3.jpg");
+}
+
+button {
+  background-color: #e3f2fd !important;
+  border-radius: 8px;
+}
+p {
+  color: white;
+}
+
+figcaption {
+  color: white !important;
+}
+
+select {
+  background-color: #e3f2fd !important;
+}
+
+svg {
+  color: white;
+  display: flex;
+  align-items: center !important;
+  font-weight: 800;
 }

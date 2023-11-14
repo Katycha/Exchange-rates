@@ -39,6 +39,7 @@ async function changeValue(event) {
     li.classList.add("list-group-item");
     if (baseCurrency.value === key) {
       li.style.fontWeight = "800";
+      li.style.backgroundColor = "#e3f2fd";
     }
     list.appendChild(li);
   }
